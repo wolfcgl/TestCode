@@ -1,0 +1,5 @@
+This project defines region class and provide a manager.
+
+Requires:
+1. ncurse library should be installed.
+2. your gcc compiler should support c++11.
